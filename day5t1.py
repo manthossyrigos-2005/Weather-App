@@ -1,0 +1,112 @@
+def calculate_tax(profit):
+    if profit > 500.0:
+        return profit * 0.15
+    else:
+        return 0.0
+    user_profit = float(input("Enter your profit: "))
+    tax = calculate_tax(user_profit)
+    net_profit = user_profit - tax
+    print(f"tax is:{tax}")
+    print(f"net profit:{net_profit}")
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
